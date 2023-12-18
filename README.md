@@ -1,6 +1,6 @@
 # Module-5-Coding-Assignment COURSERA
 
-The website will be visible in the below link
+The website will be visible in following link
 https://dare-to-code.github.io/restaurant_website/
 
 Error
